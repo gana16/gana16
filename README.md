@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gana16
 - 👀 I’m interested in learing new skills & technologies
-- 🌱 I’m currently learning mobile app development 
-- 💞️ I’m looking to collaborate on IT Industries
+- 🌱 I’m currently learning mobile app development using dart
+- 💞️ I’m looking to collaborate with IT Industries
 - 📫 How to reach me @
 
 <!---
